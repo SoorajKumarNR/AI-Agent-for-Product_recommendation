@@ -2,6 +2,10 @@
 
 [![AI Product Recommendation Agent](https://apify.com/actor-badge?actor=matymar/ai-product-recommendation-agent)](https://apify.com/matymar/ai-product-recommendation-agent)
 
+
+![image alt](https://github.com/SoorajKumarNR/AI-Agent-for-Product_recommendation/blob/ef8cd4a10943c5ea99423c416b89d8c4ef0caa26/architecture%20diagram.png)
+
+
 # AI Product Recommendation Agent 🤖🛒
 
 ## 1. Overview of the Agent
